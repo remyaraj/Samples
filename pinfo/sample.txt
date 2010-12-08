@@ -1,0 +1,12 @@
+
+texas:msp430:16mhz:neumann:16
+
+microchip:pic:8mhz:harvard:8
+
+atmel:avr:12mhz:harvard:8
+
+sgsthompson:stm32:55mhz:neumann:32
+
+philips:lpc2000:32mhz:neumann:32
+
+
